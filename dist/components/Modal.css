@@ -29,10 +29,10 @@
 .close {
     display: flex;
     justify-content: center;
-    position: absolute;
+    position: relative;
     align-items: center;
-    top: 45%;
-    left: 67.5%;
+    top: -25px;
+    left: -15px;
     width: 30px;
     height: 30px;
     border-radius: 50%;

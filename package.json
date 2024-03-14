@@ -5,7 +5,11 @@
   "main": "dist/index.js",
   "module": "dist/index;js",
   "files": ["dist", "README.md"],
-  "version": "0.1.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rjm62/rudy-modal"
+  },
+  "version": "0.1.8",
   "private": false,
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
