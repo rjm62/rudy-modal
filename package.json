@@ -1,6 +1,7 @@
 {
   "name": "rudy-modal",
   "description": "modale réalisée pour le P14 d'Openclassrooms",
+  "author": "JM Rochoy",
   "keywords": ["react", "component", "modal"],
   "main": "dist/index.js",
   "module": "dist/index;js",
@@ -9,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/rjm62/rudy-modal"
   },
-  "version": "0.1.8",
+  "version": "0.1.9",
   "private": false,
   "dependencies": {
     "@babel/polyfill": "^7.12.1",

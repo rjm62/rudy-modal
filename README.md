@@ -5,6 +5,7 @@ This is a React component for the 14th project of Openclassrooms
 ## Prerequistes:
 * Node version : 20.6.0
 * npm version : 9.8.1
+* VS Code version : 1.87.0
 
 
 
